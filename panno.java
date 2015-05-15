@@ -1,3 +1,7 @@
+/*regular expression progrom for Indian Pan number 
+ABCDS1234Y
+*/
+
 package regularexpression;
 
 import java.io.BufferedReader;
